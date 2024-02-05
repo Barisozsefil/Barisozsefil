@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 🖐<br>I am a student<br>A versatile digital product designer, a student engaged in UI/UX design and coding.<br>C,Python SQL , HTML CSS
+Hello 🖐<br>I am a computer programming student<br>A versatile digital product designer, a student engaged in UI/UX design and coding.<br>C,Python SQL , HTML CSS
 
 
 ## 🌐 Socials:
